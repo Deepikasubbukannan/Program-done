@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is text2 file
+=======
+city:name
+>>>>>>> 7a1bd6ed5bcbd1d2b7bd76b35ab431e30a933e08

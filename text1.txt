@@ -1,3 +1,4 @@
-this is text2 file
-text
 
+
+City:Chennai
+City:Bangalore
