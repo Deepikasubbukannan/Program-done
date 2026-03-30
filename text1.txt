@@ -1,2 +1,4 @@
 this is text2 file
 text
+
+cg tx
