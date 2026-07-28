@@ -1,2 +1,2 @@
-
-city:name
+<h1>Welcome to HTML page</h1>
+<p> Here, we can see related to Cloud computing and Google cloud program</p>
